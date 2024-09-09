@@ -24,3 +24,9 @@ user_name = input("What's your name?")
 print("Nice to meet you" + user_name)
 
 print(user_name, "you are register in", course)
+
+#Monday 9-9-2024 pd 5-6
+
+first_name = input("What is your first name?")
+last_name = input("What is your last name?")
+print("Nice to meet you" + " " + first_name + " " + last_name + "!")
