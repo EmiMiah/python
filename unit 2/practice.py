@@ -15,3 +15,10 @@ y=2
 z=9
 sol= z+x*y
 print("the answer is" + str(sol))
+
+
+import math
+r= int(input("What is the radius of you circle?"))
+c= 2*r*math.pi
+a= math.pi*r**2
+print("c=",c," a=",a)
